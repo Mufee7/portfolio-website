@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+  body {
+    @apply font-sans; /* Default body font → DM Sans / PT Sans */
+  }
+  h1, h2, h3, h4 {
+    @apply font-heading; /* Default heading font → Savate / Handjet / Nerko One */
+  }
+  code, pre {
+    @apply font-mono; /* For code blocks → Roboto Mono / Intel One Mono */
+  }
+}
