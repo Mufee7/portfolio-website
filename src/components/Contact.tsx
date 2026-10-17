@@ -118,7 +118,7 @@ const Contact = () => {
                 data-driven projects.
               </p>
               <a
-                href="https://www.linkedin.com/in/mufeedh-ahmed-17614729b"
+                href="https://www.linkedin.com/in/mufeedh-ahmed/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-white text-amber-600 font-semibold py-3 px-6 rounded-lg hover:bg-gray-50 transition-colors duration-200 block text-center"
